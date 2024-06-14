@@ -36,9 +36,9 @@ A text editor eg VS Code
 
 :bust_in_silhouette: **JoeMwai**
 
-GitHub: https://github.com/joemwai637
-Twitter: https://twitter.com/JoeMwai
-LinkedIn: https://linkedin.com/in/joe-mwai/
+- GitHub: https://github.com/joemwai637
+- Twitter: https://twitter.com/JoeMwai
+- LinkedIn: https://linkedin.com/in/joe-mwai/
 
 ## :handshake: Contributing
 
